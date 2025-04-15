@@ -4,41 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>top.continew</groupId>
-        <artifactId>continew-starter-dependencies</artifactId>
+        <groupId>top.znsd</groupId>
+        <artifactId>znsd-starter-dependencies</artifactId>
         <version>${revision}</version>
-        <relativePath>./continew-starter-dependencies</relativePath>
+        <relativePath>./znsd-starter-dependencies</relativePath>
     </parent>
 
-    <artifactId>continew-starter</artifactId>
+    <artifactId>znsd-starter</artifactId>
     <packaging>pom</packaging>
-    <name>ContiNew Starter</name>
-    <description>
-        ContiNew Starter（Continue New Starter）基于“约定优于配置”的理念，
-        再次精简常规配置，提供一个更为完整的配置解决方案，帮助开发人员更加快速的集成常用第三方库或工具到 Spring Boot Web 应用程序中。
-        ContiNew Starter 包含了一系列经过企业实践优化的依赖包（如 MyBatis-Plus、SaToken），
-        可轻松集成到应用中，为开发人员减少手动引入依赖及配置的麻烦，为 Spring Boot Web 项目的灵活快速构建提供支持。
-    </description>
-    <url>https://github.com/continew-org/continew-starter</url>
-    <licenses>
-        <license>
-            <name>GNU LESSER GENERAL PUBLIC LICENSE</name>
-            <url>http://www.gnu.org/licenses/lgpl.html</url>
-        </license>
-    </licenses>
-    <developers>
-        <developer>
-            <id>charles7c</id>
-            <name>Charles7c</name>
-            <email>charles7c@126.com</email>
-            <roles>
-                <role>Creator</role>
-                <role>Java Development Engineer</role>
-            </roles>
-            <timezone>+8</timezone>
-            <url>https://github.com/Charles7c</url>
-        </developer>
-    </developers>
+    <name>Znsd Starter</name>
+
     <scm>
         <connection>scm:git:git@github.com:continew-org/continew-starter.git</connection>
         <developerConnection>scm:git:git@github.com:continew-org/continew-starter.git</developerConnection>
@@ -57,37 +32,37 @@
     </properties>
 
     <modules>
-        <module>continew-starter-dependencies</module>
-        <module>continew-starter-bom</module>
-        <module>continew-starter-core</module>
-        <module>continew-starter-json</module>
-        <module>continew-starter-api-doc</module>
-        <module>continew-starter-web</module>
-        <module>continew-starter-security</module>
-        <module>continew-starter-ratelimiter</module>
-        <module>continew-starter-idempotent</module>
-        <module>continew-starter-trace</module>
-        <module>continew-starter-log</module>
-        <module>continew-starter-storage</module>
-        <module>continew-starter-file</module>
-        <module>continew-starter-captcha</module>
-        <module>continew-starter-cache</module>
-        <module>continew-starter-data</module>
-        <module>continew-starter-auth</module>
-        <module>continew-starter-messaging</module>
-        <module>continew-starter-extension</module>
+        <module>znsd-starter-dependencies</module>
+        <module>znsd-starter-bom</module>
+        <module>znsd-starter-core</module>
+        <module>znsd-starter-json</module>
+        <module>znsd-starter-api-doc</module>
+        <module>znsd-starter-web</module>
+        <module>znsd-starter-security</module>
+        <module>znsd-starter-ratelimiter</module>
+        <module>znsd-starter-idempotent</module>
+        <module>znsd-starter-trace</module>
+        <module>znsd-starter-log</module>
+        <module>znsd-starter-storage</module>
+        <module>znsd-starter-file</module>
+        <module>znsd-starter-captcha</module>
+        <module>znsd-starter-cache</module>
+        <module>znsd-starter-data</module>
+        <module>znsd-starter-auth</module>
+        <module>znsd-starter-messaging</module>
+        <module>znsd-starter-extension</module>
     </modules>
 
     <build>
         <plugins>
             <!-- 编译插件 -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <compilerArgument>-parameters</compilerArgument>
-                </configuration>
-            </plugin>
+<!--            <plugin>-->
+<!--                <groupId>org.apache.maven.plugins</groupId>-->
+<!--                <artifactId>maven-compiler-plugin</artifactId>-->
+<!--                <configuration>-->
+<!--                    <compilerArgument>-parameters</compilerArgument>-->
+<!--                </configuration>-->
+<!--            </plugin>-->
             <!-- 代码格式化插件 -->
             <plugin>
                 <groupId>com.diffplug.spotless</groupId>

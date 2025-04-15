@@ -462,7 +462,7 @@
 
 ### 💥 破坏性变更
 
-- groupId 及基础包名调整，更短的包名，聚合品牌形象。top.charles7c.continew => top.continew ([dbb7a63](https://github.com/continew-org/continew-starter/commit/dbb7a6319e9440e7a05f2eb4aab3b445f43197f7))
+- groupId 及基础包名调整，更短的包名，聚合品牌形象。top.charles7c.continew => top.znsd ([dbb7a63](https://github.com/continew-org/continew-starter/commit/dbb7a6319e9440e7a05f2eb4aab3b445f43197f7))
 
 ## [v1.5.1](https://github.com/continew-org/continew-starter/compare/v1.5.0...v1.5.1) (2024-03-23)
 

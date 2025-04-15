@@ -1,0 +1,4 @@
+top.znsd.starter.core.autoconfigure.project.ProjectAutoConfiguration
+top.znsd.starter.core.autoconfigure.ValidatorAutoConfiguration
+top.znsd.starter.core.autoconfigure.threadpool.ThreadPoolAutoConfiguration
+top.znsd.starter.core.autoconfigure.threadpool.AsyncAutoConfiguration

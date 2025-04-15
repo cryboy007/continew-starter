@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>top.znsd</groupId>
+        <artifactId>znsd-starter</artifactId>
+        <version>${revision}</version>
+    </parent>
+
+    <artifactId>znsd-starter-storage</artifactId>
+    <packaging>pom</packaging>
+    <description>ContiNew Starter 存储模块</description>
+
+    <modules>
+        <module>znsd-starter-storage-core</module>
+        <module>znsd-starter-storage-local</module>
+        <module>znsd-starter-storage-oss</module>
+    </modules>
+
+    <dependencies>
+        <!-- 核心模块 -->
+        <dependency>
+            <groupId>top.znsd</groupId>
+            <artifactId>znsd-starter-core</artifactId>
+        </dependency>
+    </dependencies>
+</project>

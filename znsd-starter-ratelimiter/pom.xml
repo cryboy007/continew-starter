@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>top.znsd</groupId>
+        <artifactId>znsd-starter</artifactId>
+        <version>${revision}</version>
+    </parent>
+
+    <artifactId>znsd-starter-ratelimiter</artifactId>
+    <description>ContiNew Starter 限流模块</description>
+
+    <dependencies>
+        <!-- Web 模块 -->
+        <dependency>
+            <groupId>top.znsd</groupId>
+            <artifactId>znsd-starter-web</artifactId>
+        </dependency>
+
+        <!-- 缓存模块 - Redisson -->
+        <dependency>
+            <groupId>top.znsd</groupId>
+            <artifactId>znsd-starter-cache-redisson</artifactId>
+        </dependency>
+    </dependencies>
+</project>

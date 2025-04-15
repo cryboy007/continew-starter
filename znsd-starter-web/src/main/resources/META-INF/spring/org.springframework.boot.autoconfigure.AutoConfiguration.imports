@@ -1,0 +1,3 @@
+top.znsd.starter.web.autoconfigure.mvc.WebMvcAutoConfiguration
+top.znsd.starter.web.autoconfigure.cors.CorsAutoConfiguration
+top.znsd.starter.web.autoconfigure.server.UndertowAutoConfiguration
