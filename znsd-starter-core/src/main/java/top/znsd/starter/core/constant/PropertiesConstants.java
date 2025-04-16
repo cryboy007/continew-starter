@@ -27,7 +27,7 @@ public class PropertiesConstants {
     /**
      * Znsd Starter
      */
-    public static final String CONTINEW_STARTER = "znsd-starter";
+    public static final String ZNSD_STARTER = "znsd-starter";
 
     /**
      * 启用配置
@@ -37,7 +37,7 @@ public class PropertiesConstants {
     /**
      * 安全配置
      */
-    public static final String SECURITY = CONTINEW_STARTER + StringConstants.DOT + "security";
+    public static final String SECURITY = ZNSD_STARTER + StringConstants.DOT + "security";
 
     /**
      * 安全-密码编解码配置
@@ -62,7 +62,7 @@ public class PropertiesConstants {
     /**
      * Web 配置
      */
-    public static final String WEB = CONTINEW_STARTER + StringConstants.DOT + "web";
+    public static final String WEB = ZNSD_STARTER + StringConstants.DOT + "web";
 
     /**
      * Web-跨域配置
@@ -77,17 +77,17 @@ public class PropertiesConstants {
     /**
      * 日志配置
      */
-    public static final String LOG = CONTINEW_STARTER + StringConstants.DOT + "log";
+    public static final String LOG = ZNSD_STARTER + StringConstants.DOT + "log";
 
     /**
      * 存储配置
      */
-    public static final String STORAGE = CONTINEW_STARTER + StringConstants.DOT + "storage";
+    public static final String STORAGE = ZNSD_STARTER + StringConstants.DOT + "storage";
 
     /**
      * 验证码配置
      */
-    public static final String CAPTCHA = CONTINEW_STARTER + StringConstants.DOT + "captcha";
+    public static final String CAPTCHA = ZNSD_STARTER + StringConstants.DOT + "captcha";
 
     /**
      * 图形验证码配置
@@ -102,7 +102,7 @@ public class PropertiesConstants {
     /**
      * 消息配置
      */
-    public static final String MESSAGING = CONTINEW_STARTER + StringConstants.DOT + "messaging";
+    public static final String MESSAGING = ZNSD_STARTER + StringConstants.DOT + "messaging";
 
     /**
      * WebSocket 配置
@@ -112,32 +112,32 @@ public class PropertiesConstants {
     /**
      * CRUD 配置
      */
-    public static final String CRUD = CONTINEW_STARTER + StringConstants.DOT + "crud";
+    public static final String CRUD = ZNSD_STARTER + StringConstants.DOT + "crud";
 
     /**
      * 数据权限配置
      */
-    public static final String DATA_PERMISSION = CONTINEW_STARTER + StringConstants.DOT + "data-permission";
+    public static final String DATA_PERMISSION = ZNSD_STARTER + StringConstants.DOT + "data-permission";
 
     /**
      * 多租户配置
      */
-    public static final String TENANT = CONTINEW_STARTER + StringConstants.DOT + "tenant";
+    public static final String TENANT = ZNSD_STARTER + StringConstants.DOT + "tenant";
 
     /**
      * 限流配置
      */
-    public static final String RATE_LIMITER = CONTINEW_STARTER + StringConstants.DOT + "rate-limiter";
+    public static final String RATE_LIMITER = ZNSD_STARTER + StringConstants.DOT + "rate-limiter";
 
     /**
      * 幂等配置
      */
-    public static final String IDEMPOTENT = CONTINEW_STARTER + StringConstants.DOT + "idempotent";
+    public static final String IDEMPOTENT = ZNSD_STARTER + StringConstants.DOT + "idempotent";
 
     /**
      * 链路追踪配置
      */
-    public static final String TRACE = CONTINEW_STARTER + StringConstants.DOT + "trace";
+    public static final String TRACE = ZNSD_STARTER + StringConstants.DOT + "trace";
 
     private PropertiesConstants() {
     }
