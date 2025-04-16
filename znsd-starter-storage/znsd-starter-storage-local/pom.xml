@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-storage-local</artifactId>
-    <description>ContiNew Starter 存储模块 - 本地存储</description>
+    <description>Znsd Starter 存储模块 - 本地存储</description>
 
     <dependencies>
         <!--存储 - 核心模块-->

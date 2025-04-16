@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-security-crypto</artifactId>
-    <description>ContiNew Starter 安全模块 - 加密</description>
+    <description>Znsd Starter 安全模块 - 加密</description>
 
     <dependencies>
         <!-- Hutool 加密解密模块（封装 JDK 中加密解密算法） -->

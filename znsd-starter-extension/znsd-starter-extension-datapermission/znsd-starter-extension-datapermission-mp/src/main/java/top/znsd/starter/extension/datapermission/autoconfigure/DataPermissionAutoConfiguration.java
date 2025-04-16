@@ -79,6 +79,6 @@ public class DataPermissionAutoConfiguration {
     }
 
     static {
-        log.debug("[ContiNew Starter] - Auto Configuration 'DataPermission' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'DataPermission' completed initialization.");
     }
 }

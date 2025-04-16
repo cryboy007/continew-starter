@@ -91,6 +91,6 @@ public class TraceAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Trace' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Trace' completed initialization.");
     }
 }

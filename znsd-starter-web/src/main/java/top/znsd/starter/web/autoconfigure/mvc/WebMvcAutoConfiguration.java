@@ -83,6 +83,6 @@ public class WebMvcAutoConfiguration implements WebMvcConfigurer {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Web MVC' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Web MVC' completed initialization.");
     }
 }

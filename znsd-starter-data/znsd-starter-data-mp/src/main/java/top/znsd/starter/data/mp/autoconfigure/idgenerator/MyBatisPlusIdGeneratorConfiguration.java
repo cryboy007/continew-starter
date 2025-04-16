@@ -49,7 +49,7 @@ public class MyBatisPlusIdGeneratorConfiguration {
     @ConditionalOnProperty(name = "mybatis-plus.extension.id-generator.type", havingValue = "default", matchIfMissing = true)
     public static class Default {
         static {
-            log.debug("[ContiNew Starter] - Auto Configuration 'MyBatis Plus-IdGenerator-Default' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'MyBatis Plus-IdGenerator-Default' completed initialization.");
         }
 
         @Bean
@@ -66,7 +66,7 @@ public class MyBatisPlusIdGeneratorConfiguration {
     @ConditionalOnProperty(name = "mybatis-plus.extension.id-generator.type", havingValue = "cosid")
     public static class CosId {
         static {
-            log.debug("[ContiNew Starter] - Auto Configuration 'MyBatis Plus-IdGenerator-CosId' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'MyBatis Plus-IdGenerator-CosId' completed initialization.");
         }
 
         @Bean

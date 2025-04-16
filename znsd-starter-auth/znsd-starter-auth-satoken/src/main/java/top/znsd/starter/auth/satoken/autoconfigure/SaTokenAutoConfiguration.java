@@ -95,6 +95,6 @@ public class SaTokenAutoConfiguration implements WebMvcConfigurer {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'SaToken' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'SaToken' completed initialization.");
     }
 }

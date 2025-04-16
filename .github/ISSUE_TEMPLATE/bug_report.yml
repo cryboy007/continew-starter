@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        感谢您使用 ContiNew Starter！请您花些时间填写这份 Bug 报告。
+        感谢您使用 Znsd Starter！请您花些时间填写这份 Bug 报告。
   - type: checkboxes
     id: checkboxes
     attributes:

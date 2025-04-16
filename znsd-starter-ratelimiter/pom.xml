@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>znsd-starter-ratelimiter</artifactId>
-    <description>ContiNew Starter 限流模块</description>
+    <description>Znsd Starter 限流模块</description>
 
     <dependencies>
         <!-- Web 模块 -->

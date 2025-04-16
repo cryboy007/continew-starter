@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-messaging-websocket</artifactId>
-    <description>ContiNew Starter 消息模块 - WebSocket</description>
+    <description>Znsd Starter 消息模块 - WebSocket</description>
 
     <dependencies>
         <!-- WebSocket 支持 -->

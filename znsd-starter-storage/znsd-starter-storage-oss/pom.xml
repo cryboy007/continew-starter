@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>znsd-starter-storage-oss</artifactId>
-    <description>ContiNew Starter 存储模块 - 对象存储</description>
+    <description>Znsd Starter 存储模块 - 对象存储</description>
 
     <dependencies>
         <!--  S3 SDK for Java 2.x  -->

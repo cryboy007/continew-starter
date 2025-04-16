@@ -128,6 +128,6 @@ public class TenantAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Tenant' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Tenant' completed initialization.");
     }
 }

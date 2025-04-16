@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-file-excel</artifactId>
-    <description>ContiNew Starter 文件处理模块 - Excel</description>
+    <description>Znsd Starter 文件处理模块 - Excel</description>
 
     <dependencies>
         <!-- Easy Excel（一个基于 Java 的、快速、简洁、解决大文件内存溢出的 Excel 处理工具） -->

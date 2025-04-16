@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-auth-satoken</artifactId>
-    <description>ContiNew Starter 认证模块 - SaToken</description>
+    <description>Znsd Starter 认证模块 - SaToken</description>
 
     <dependencies>
         <!-- Sa-Token（轻量级 Java 权限认证框架，让鉴权变得简单、优雅） -->

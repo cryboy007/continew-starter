@@ -11,7 +11,7 @@
 
     <artifactId>znsd-starter-extension-datapermission</artifactId>
     <packaging>pom</packaging>
-    <description>ContiNew Starter 扩展模块 - 数据权限</description>
+    <description>Znsd Starter 扩展模块 - 数据权限</description>
 
     <modules>
         <module>znsd-starter-extension-datapermission-core</module>

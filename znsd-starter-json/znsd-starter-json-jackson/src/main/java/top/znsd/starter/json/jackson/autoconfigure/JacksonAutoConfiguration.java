@@ -63,7 +63,7 @@ public class JacksonAutoConfiguration {
             SimpleModule simpleModule = this.simpleModule();
             builder.timeZone(TimeZone.getDefault());
             builder.modules(javaTimeModule, simpleModule);
-            log.debug("[ContiNew Starter] - Auto Configuration 'Jackson' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'Jackson' completed initialization.");
         };
     }
 

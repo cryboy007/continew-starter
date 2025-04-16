@@ -10,5 +10,5 @@
     </parent>
 
     <artifactId>znsd-starter-security-mask</artifactId>
-    <description>ContiNew Starter 安全模块 - 脱敏</description>
+    <description>Znsd Starter 安全模块 - 脱敏</description>
 </project>

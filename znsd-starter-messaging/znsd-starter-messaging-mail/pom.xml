@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-messaging-mail</artifactId>
-    <description>ContiNew Starter 消息模块 - 邮件</description>
+    <description>Znsd Starter 消息模块 - 邮件</description>
 
     <dependencies>
         <!-- Java 邮件支持 -->

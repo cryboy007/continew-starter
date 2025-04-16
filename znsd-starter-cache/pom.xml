@@ -11,7 +11,7 @@
 
     <artifactId>znsd-starter-cache</artifactId>
     <packaging>pom</packaging>
-    <description>ContiNew Starter 缓存模块</description>
+    <description>Znsd Starter 缓存模块</description>
 
     <modules>
         <module>znsd-starter-cache-redisson</module>

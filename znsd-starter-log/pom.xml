@@ -11,7 +11,7 @@
 
     <artifactId>znsd-starter-log</artifactId>
     <packaging>pom</packaging>
-    <description>ContiNew Starter 日志模块</description>
+    <description>Znsd Starter 日志模块</description>
 
     <modules>
         <module>znsd-starter-log-core</module>

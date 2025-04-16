@@ -45,7 +45,7 @@ public class XssFilter implements Filter {
 
     @Override
     public void init(FilterConfig filterConfig) {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Web-XssFilter' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Web-XssFilter' completed initialization.");
     }
 
     @Override

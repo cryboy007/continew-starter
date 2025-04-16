@@ -54,6 +54,6 @@ public class XssAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Security-XSS' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Security-XSS' completed initialization.");
     }
 }

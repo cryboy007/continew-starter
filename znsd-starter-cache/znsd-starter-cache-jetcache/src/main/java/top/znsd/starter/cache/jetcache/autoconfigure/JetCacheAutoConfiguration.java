@@ -39,7 +39,7 @@ public class JetCacheAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'JetCache' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'JetCache' completed initialization.");
     }
 
 }

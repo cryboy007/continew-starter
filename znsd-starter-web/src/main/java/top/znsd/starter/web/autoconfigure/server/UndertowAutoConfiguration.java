@@ -62,9 +62,9 @@ public class UndertowAutoConfiguration {
                     .stream()
                     .map(HttpString::tryFromString)
                     .collect(Collectors.toSet()))));
-            log.debug("[ContiNew Starter] - Disallowed HTTP methods on Server Undertow: {}.", properties
+            log.debug("[Znsd Starter] - Disallowed HTTP methods on Server Undertow: {}.", properties
                 .getDisallowedMethods());
-            log.debug("[ContiNew Starter] - Auto Configuration 'Web-Server Undertow' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'Web-Server Undertow' completed initialization.");
         };
     }
 }

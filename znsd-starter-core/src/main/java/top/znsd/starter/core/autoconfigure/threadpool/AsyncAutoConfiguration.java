@@ -81,6 +81,6 @@ public class AsyncAutoConfiguration implements AsyncConfigurer {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'AsyncConfigurer' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'AsyncConfigurer' completed initialization.");
     }
 }

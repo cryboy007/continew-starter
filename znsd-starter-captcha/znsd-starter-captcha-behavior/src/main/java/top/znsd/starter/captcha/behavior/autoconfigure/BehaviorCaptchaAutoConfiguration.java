@@ -133,6 +133,6 @@ public class BehaviorCaptchaAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Captcha-Behavior' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Captcha-Behavior' completed initialization.");
     }
 }

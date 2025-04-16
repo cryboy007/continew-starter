@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>znsd-starter-storage-core</artifactId>
-    <description>ContiNew Starter 存储模块 - 核心模块</description>
+    <description>Znsd Starter 存储模块 - 核心模块</description>
 
     <dependencies>
 

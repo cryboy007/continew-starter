@@ -62,6 +62,6 @@ public class ValidatorAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Validator' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Validator' completed initialization.");
     }
 }

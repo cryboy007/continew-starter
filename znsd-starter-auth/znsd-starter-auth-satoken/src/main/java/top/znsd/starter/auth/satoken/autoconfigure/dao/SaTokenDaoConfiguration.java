@@ -50,7 +50,7 @@ public class SaTokenDaoConfiguration {
     @ConditionalOnProperty(name = "sa-token.extension.dao.type", havingValue = "default", matchIfMissing = true)
     public static class Default {
         static {
-            log.debug("[ContiNew Starter] - Auto Configuration 'SaToken-Dao-Default' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'SaToken-Dao-Default' completed initialization.");
         }
 
         @Bean
@@ -68,7 +68,7 @@ public class SaTokenDaoConfiguration {
     @ConditionalOnProperty(name = "sa-token.extension.dao.type", havingValue = "redis")
     public static class Redis {
         static {
-            log.debug("[ContiNew Starter] - Auto Configuration 'SaToken-Dao-Redis' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'SaToken-Dao-Redis' completed initialization.");
         }
 
         @Bean

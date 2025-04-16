@@ -11,7 +11,7 @@
 
     <artifactId>znsd-starter-messaging</artifactId>
     <packaging>pom</packaging>
-    <description>ContiNew Starter 消息模块</description>
+    <description>Znsd Starter 消息模块</description>
 
     <modules>
         <module>znsd-starter-messaging-mail</module>

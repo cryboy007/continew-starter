@@ -69,6 +69,6 @@ public class IdempotentAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Idempotent' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Idempotent' completed initialization.");
     }
 }

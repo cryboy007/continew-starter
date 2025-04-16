@@ -61,6 +61,6 @@ public class SensitiveWordsAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Security-Sensitive Words' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Security-Sensitive Words' completed initialization.");
     }
 }

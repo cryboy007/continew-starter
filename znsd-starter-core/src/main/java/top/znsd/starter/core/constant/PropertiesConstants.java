@@ -25,7 +25,7 @@ package top.znsd.starter.core.constant;
 public class PropertiesConstants {
 
     /**
-     * ContiNew Starter
+     * Znsd Starter
      */
     public static final String CONTINEW_STARTER = "continew-starter";
 

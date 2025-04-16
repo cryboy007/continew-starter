@@ -94,6 +94,6 @@ public class WebSocketAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Messaging-WebSocket' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Messaging-WebSocket' completed initialization.");
     }
 }

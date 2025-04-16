@@ -11,7 +11,7 @@
 
     <artifactId>znsd-starter-data</artifactId>
     <packaging>pom</packaging>
-    <description>ContiNew Starter 数据访问模块</description>
+    <description>Znsd Starter 数据访问模块</description>
 
     <modules>
         <module>znsd-starter-data-core</module>

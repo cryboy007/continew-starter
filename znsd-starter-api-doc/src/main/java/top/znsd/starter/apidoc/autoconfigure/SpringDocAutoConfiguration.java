@@ -166,6 +166,6 @@ public class SpringDocAutoConfiguration implements WebMvcConfigurer {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'ApiDoc' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'ApiDoc' completed initialization.");
     }
 }

@@ -66,6 +66,6 @@ public class CryptoAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Security-Crypto' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Security-Crypto' completed initialization.");
     }
 }

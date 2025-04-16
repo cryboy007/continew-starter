@@ -395,7 +395,7 @@
                 <version>${commons-compress.version}</version>
             </dependency>
 
-            <!-- ContiNew Starter 依赖 -->
+            <!-- Znsd Starter 依赖 -->
             <dependency>
                 <groupId>top.znsd</groupId>
                 <artifactId>znsd-starter-bom</artifactId>

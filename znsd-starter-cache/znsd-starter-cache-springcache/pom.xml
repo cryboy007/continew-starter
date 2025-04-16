@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-cache-springcache</artifactId>
-    <description>ContiNew Starter 缓存模块 - Spring Cache</description>
+    <description>Znsd Starter 缓存模块 - Spring Cache</description>
 
     <dependencies>
         <!-- 缓存模块 - Redisson -->

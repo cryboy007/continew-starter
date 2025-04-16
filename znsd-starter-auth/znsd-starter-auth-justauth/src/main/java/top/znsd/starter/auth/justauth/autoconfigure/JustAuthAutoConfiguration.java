@@ -48,12 +48,12 @@ public class JustAuthAutoConfiguration {
     @ConditionalOnProperty(prefix = "justauth.cache", name = "type", havingValue = "redis")
     public AuthStateCache authStateCache() {
         AuthStateCacheRedisDefaultImpl impl = new AuthStateCacheRedisDefaultImpl();
-        log.debug("[ContiNew Starter] - Auto Configuration 'JustAuth-AuthStateCache-Redis' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'JustAuth-AuthStateCache-Redis' completed initialization.");
         return impl;
     }
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'JustAuth' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'JustAuth' completed initialization.");
     }
 }

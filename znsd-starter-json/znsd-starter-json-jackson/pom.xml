@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-json-jackson</artifactId>
-    <description>ContiNew Starter JSON 模块 - Jackson</description>
+    <description>Znsd Starter JSON 模块 - Jackson</description>
 
     <dependencies>
         <!-- Spring Boot JSON 模块 -->

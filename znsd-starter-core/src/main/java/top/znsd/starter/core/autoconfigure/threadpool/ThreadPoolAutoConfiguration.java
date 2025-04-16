@@ -63,7 +63,7 @@ public class ThreadPoolAutoConfiguration {
             executor.setRejectedExecutionHandler(properties.getExecution()
                 .getRejectedPolicy()
                 .getRejectedExecutionHandler());
-            log.debug("[ContiNew Starter] - Auto Configuration 'TaskExecutor' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'TaskExecutor' completed initialization.");
         };
     }
 
@@ -79,7 +79,7 @@ public class ThreadPoolAutoConfiguration {
                 executor.setRejectedExecutionHandler(properties.getScheduling()
                     .getRejectedPolicy()
                     .getRejectedExecutionHandler());
-                log.debug("[ContiNew Starter] - Auto Configuration 'TaskScheduler' completed initialization.");
+                log.debug("[Znsd Starter] - Auto Configuration 'TaskScheduler' completed initialization.");
             };
         }
     }

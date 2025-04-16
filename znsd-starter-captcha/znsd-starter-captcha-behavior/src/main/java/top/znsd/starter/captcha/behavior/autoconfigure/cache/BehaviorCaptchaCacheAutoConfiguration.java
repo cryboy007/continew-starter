@@ -65,7 +65,7 @@ public class BehaviorCaptchaCacheAutoConfiguration {
         @PostConstruct
         public void postConstruct() {
             CaptchaServiceFactory.cacheService.put(StorageType.DEFAULT.name().toLowerCase(), captchaCacheService());
-            log.debug("[ContiNew Starter] - Auto Configuration 'Captcha-Behavior-Cache-Default' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'Captcha-Behavior-Cache-Default' completed initialization.");
         }
     }
 
@@ -85,7 +85,7 @@ public class BehaviorCaptchaCacheAutoConfiguration {
         @PostConstruct
         public void postConstruct() {
             CaptchaServiceFactory.cacheService.put(StorageType.REDIS.name().toLowerCase(), captchaCacheService());
-            log.debug("[ContiNew Starter] - Auto Configuration 'Captcha-Behavior-Cache-Redis' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'Captcha-Behavior-Cache-Redis' completed initialization.");
         }
     }
 
@@ -109,7 +109,7 @@ public class BehaviorCaptchaCacheAutoConfiguration {
         public void postConstruct() {
             CaptchaServiceFactory.cacheService.put(StorageType.CUSTOM.name().toLowerCase(), SpringUtil
                 .getBean(CaptchaCacheService.class));
-            log.debug("[ContiNew Starter] - Auto Configuration 'Captcha-Behavior-Cache-Custom' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'Captcha-Behavior-Cache-Custom' completed initialization.");
         }
     }
 }

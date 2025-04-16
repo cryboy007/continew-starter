@@ -59,6 +59,6 @@ public class CrudRestControllerAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Extension-CRUD REST Controller' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Extension-CRUD REST Controller' completed initialization.");
     }
 }

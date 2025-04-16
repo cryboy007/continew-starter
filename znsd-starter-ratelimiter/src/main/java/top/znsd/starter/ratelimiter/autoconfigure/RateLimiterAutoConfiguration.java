@@ -66,6 +66,6 @@ public class RateLimiterAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'RateLimiter' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'RateLimiter' completed initialization.");
     }
 }

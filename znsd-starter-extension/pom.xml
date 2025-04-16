@@ -11,7 +11,7 @@
 
     <artifactId>znsd-starter-extension</artifactId>
     <packaging>pom</packaging>
-    <description>ContiNew Starter 扩展模块</description>
+    <description>Znsd Starter 扩展模块</description>
 
     <modules>
         <module>znsd-starter-extension-crud</module>

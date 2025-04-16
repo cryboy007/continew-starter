@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-security-password</artifactId>
-    <description>ContiNew Starter 安全模块 - 密码编码器</description>
+    <description>Znsd Starter 安全模块 - 密码编码器</description>
 
     <dependencies>
         <!-- Spring Security 附带的一个密码加密库 -->

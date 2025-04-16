@@ -51,6 +51,6 @@ public class GraphicCaptchaAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Captcha-Graphic' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Captcha-Graphic' completed initialization.");
     }
 }

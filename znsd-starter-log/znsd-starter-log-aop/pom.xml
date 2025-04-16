@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>znsd-starter-log-aop</artifactId>
-    <description>ContiNew Starter 日志模块 - 基于 AOP 实现</description>
+    <description>Znsd Starter 日志模块 - 基于 AOP 实现</description>
 
 
     <dependencies>

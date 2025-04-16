@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-captcha-graphic</artifactId>
-    <description>ContiNew Starter 验证码模块 - 图形验证码</description>
+    <description>Znsd Starter 验证码模块 - 图形验证码</description>
 
     <dependencies>
         <!-- Easy Captcha（Java 图形验证码，支持 gif、中文、算术等类型，可用于 Java Web、JavaSE 等项目） -->

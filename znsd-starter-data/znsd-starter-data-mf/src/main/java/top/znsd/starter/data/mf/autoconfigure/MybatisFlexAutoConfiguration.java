@@ -54,7 +54,7 @@ public class MybatisFlexAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'MyBatis Flex' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'MyBatis Flex' completed initialization.");
         DialectFactory.registerDialect(DbType.MYSQL, new DataPermissionDialect(dataPermissionFilter));
     }
 

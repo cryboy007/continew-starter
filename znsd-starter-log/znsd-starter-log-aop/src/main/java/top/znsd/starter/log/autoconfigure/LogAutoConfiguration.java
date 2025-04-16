@@ -108,6 +108,6 @@ public class LogAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Log-AOP' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Log-AOP' completed initialization.");
     }
 }

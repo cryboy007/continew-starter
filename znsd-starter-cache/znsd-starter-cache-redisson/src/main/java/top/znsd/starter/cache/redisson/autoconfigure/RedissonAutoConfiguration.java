@@ -79,7 +79,7 @@ public class RedissonAutoConfiguration {
             }
             // Jackson 处理
             config.setCodec(new JsonJacksonCodec(objectMapper));
-            log.debug("[ContiNew Starter] - Auto Configuration 'Redisson' completed initialization.");
+            log.debug("[Znsd Starter] - Auto Configuration 'Redisson' completed initialization.");
         };
     }
 

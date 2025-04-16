@@ -11,7 +11,7 @@
 
     <artifactId>znsd-starter-json</artifactId>
     <packaging>pom</packaging>
-    <description>ContiNew Starter JSON 模块</description>
+    <description>Znsd Starter JSON 模块</description>
 
     <modules>
         <module>znsd-starter-json-jackson</module>

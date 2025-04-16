@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-core</artifactId>
-    <description>ContiNew Starter 核心模块</description>
+    <description>Znsd Starter 核心模块</description>
 
     <dependencies>
         <!-- Spring Boot Starter（自动配置相关依赖） -->

@@ -93,6 +93,6 @@ public class PasswordEncoderAutoConfiguration {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Security-PasswordEncoder' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Security-PasswordEncoder' completed initialization.");
     }
 }

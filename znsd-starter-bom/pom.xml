@@ -8,7 +8,7 @@
     <artifactId>znsd-starter-bom</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
-    <description>ContiNew Starter BOM</description>
+    <description>Znsd Starter BOM</description>
 
     <properties>
         <revision>2.11.0-SNAPSHOT</revision>

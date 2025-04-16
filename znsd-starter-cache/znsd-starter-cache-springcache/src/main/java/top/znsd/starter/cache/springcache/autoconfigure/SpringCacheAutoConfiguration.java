@@ -103,6 +103,6 @@ public class SpringCacheAutoConfiguration implements CachingConfigurer {
 
     @PostConstruct
     public void postConstruct() {
-        log.debug("[ContiNew Starter] - Auto Configuration 'Spring Cache' completed initialization.");
+        log.debug("[Znsd Starter] - Auto Configuration 'Spring Cache' completed initialization.");
     }
 }

@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-data-mf</artifactId>
-    <description>ContiNew Starter 数据访问模块 - MyBatis Flex</description>
+    <description>Znsd Starter 数据访问模块 - MyBatis Flex</description>
 
     <dependencies>
         <dependency>

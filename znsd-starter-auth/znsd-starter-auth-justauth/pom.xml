@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>znsd-starter-auth-justauth</artifactId>
-    <description>ContiNew Starter 认证模块 - JustAuth</description>
+    <description>Znsd Starter 认证模块 - JustAuth</description>
 
     <dependencies>
         <!-- Just Auth（开箱即用的整合第三方登录的开源组件，脱离繁琐的第三方登录 SDK，让登录变得 So easy!） -->

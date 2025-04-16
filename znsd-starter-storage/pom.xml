@@ -11,7 +11,7 @@
 
     <artifactId>znsd-starter-storage</artifactId>
     <packaging>pom</packaging>
-    <description>ContiNew Starter 存储模块</description>
+    <description>Znsd Starter 存储模块</description>
 
     <modules>
         <module>znsd-starter-storage-core</module>
