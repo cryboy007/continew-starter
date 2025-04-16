@@ -38,7 +38,7 @@ import top.znsd.starter.trace.handler.TraceIdGenerator;
 /**
  * 链路追踪自动配置
  *
- * @author Jasmine
+ * 
  * @author administrator
  * @since 1.3.0
  */

@@ -34,7 +34,7 @@ import static java.lang.annotation.ElementType.*;
  * {@code @EnumValue(enumValues = {"F", "M"} ,message = "性别只允许为F或M")}
  * </p>
  *
- * @author Jasmine
+ * 
  * @author administrator
  * @since 2.7.3
  */

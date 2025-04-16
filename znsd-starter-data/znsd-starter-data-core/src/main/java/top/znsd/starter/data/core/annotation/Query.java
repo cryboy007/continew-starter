@@ -24,7 +24,7 @@ import java.lang.annotation.*;
  * 查询注解
  *
  * @author administrator
- * @author Jasmine
+ * 
  * @since 1.0.0
  */
 @Target(ElementType.FIELD)

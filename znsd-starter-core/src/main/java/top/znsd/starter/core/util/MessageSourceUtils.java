@@ -23,7 +23,7 @@ import org.springframework.context.i18n.LocaleContextHolder;
 /**
  * 国际化工具类
  *
- * @author Jasmine
+ * 
  * @since 2.2.0
  */
 public class MessageSourceUtils {

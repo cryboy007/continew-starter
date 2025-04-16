@@ -49,7 +49,7 @@ import java.util.Map;
  * 优点：如果有一天我们对密码编码规则进行替换或者轮转，现有的用户不会受到影响，只要修改 DelegatingPasswordEncoder 的 idForEncode 即可。
  * </p>
  *
- * @author Jasmine
+ * 
  * @author administrator
  * @since 1.3.0
  */

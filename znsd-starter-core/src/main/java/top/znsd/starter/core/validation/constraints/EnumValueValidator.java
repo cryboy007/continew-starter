@@ -31,7 +31,7 @@ import java.util.function.Function;
  * 枚举校验注解校验器
  *
  * @author administrator
- * @author Jasmine
+ * 
  * @since 2.7.3
  */
 public class EnumValueValidator implements ConstraintValidator<EnumValue, Object> {

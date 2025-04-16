@@ -22,7 +22,7 @@ import top.znsd.starter.core.constant.PropertiesConstants;
 /**
  * 密码编解码配置属性
  *
- * @author Jasmine
+ * 
  * @since 1.3.0
  */
 @ConfigurationProperties(PropertiesConstants.SECURITY_PASSWORD)

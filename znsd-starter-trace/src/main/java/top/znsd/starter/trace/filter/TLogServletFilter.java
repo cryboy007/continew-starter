@@ -34,7 +34,7 @@ import java.io.IOException;
  * </p>
  *
  * @author Bryan.Zhang
- * @author Jasmine
+ * 
  * @see com.yomahub.tlog.web.filter.TLogServletFilter
  * @since 1.3.0
  */

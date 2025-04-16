@@ -22,7 +22,7 @@ import com.yomahub.tlog.id.snowflake.UniqueIdGenerator;
 /**
  * TLog ID 生成器
  *
- * @author Jasmine
+ * 
  * @author administrator
  * @since 1.3.0
  */

@@ -29,7 +29,7 @@ import jakarta.servlet.http.HttpServletRequest;
  * </p>
  *
  * @author Bryan.Zhang
- * @author Jasmine
+ * 
  * @see com.yomahub.tlog.web.common.TLogWebCommon
  * @since 1.3.0
  */

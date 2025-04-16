@@ -45,7 +45,7 @@ import java.util.function.Consumer;
  * QueryWrapper 助手
  *
  * @author hellokaton
- * @author Jasmine
+ * 
  * @since 1.0.0
  */
 public class QueryWrapperHelper {

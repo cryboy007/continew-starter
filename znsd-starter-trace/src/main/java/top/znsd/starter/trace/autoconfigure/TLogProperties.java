@@ -24,7 +24,7 @@ package top.znsd.starter.trace.autoconfigure;
  * </p>
  *
  * @author Bryan.Zhang
- * @author Jasmine
+ * 
  * @see com.yomahub.tlog.springboot.property.TLogProperty
  * @since 1.3.0
  */
