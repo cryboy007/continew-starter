@@ -27,7 +27,7 @@ public class PropertiesConstants {
     /**
      * Znsd Starter
      */
-    public static final String CONTINEW_STARTER = "continew-starter";
+    public static final String CONTINEW_STARTER = "znsd-starter";
 
     /**
      * 启用配置

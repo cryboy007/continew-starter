@@ -1,5 +1,5 @@
 --- ### 响应配置
-continew-starter.web.response:
+znsd-starter.web.response:
   # 是否开启国际化（默认：false）
   i18n: false
   # 响应类全名（配置后 response-style 将不再生效）

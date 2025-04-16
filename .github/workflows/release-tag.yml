@@ -7,7 +7,7 @@ on:
 
 jobs:
   release:
-    if: github.repository == 'continew-org/continew-starter'
+    if: github.repository == 'continew-org/znsd-starter'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

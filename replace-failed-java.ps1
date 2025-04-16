@@ -5,7 +5,7 @@
 
 # 配置参数
 $projectRoot = "D:\project\znsd-starter"
-$sourceRoot = "D:\project\continew-starter"
+$sourceRoot = "D:\project\znsd-starter"
 $logFile = "$projectRoot\build.log"
 $mavenSettings = "D:\data\conf\settings_goldlion.xml"
 $mavenRepo = "D:\tools\maven_repository"
