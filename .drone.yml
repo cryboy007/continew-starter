@@ -4,5 +4,7 @@ name: default
 
 steps:
   - name: test
+    image: alpine  # 更换成常见的公共镜像，检查是否工作正常
     commands:
-      - echo hello world
+      - echo hello
+      - echo world
